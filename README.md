@@ -20,3 +20,26 @@ ResumeAnalyzer/
 │── ResumeScorer.java     (Scores resume)
 │── resume.txt            (Sample Resume File)
 │── job_description.txt   (Sample Job Description)
+
+🎯 How It Works?
+Reads resume.txt and job_description.txt
+
+Extracts skills from both files
+
+Compares resume skills with job requirements
+
+Calculates a match score (%)
+
+Suggests missing skills for improvement
+
+🚀 How to Run?
+Compile: javac *.java
+
+Run: java ResumeAnalyzer
+
+View Report & Suggestions! 🎯
+
+🔮 Future Enhancements
+✔ Integrate AI for Better Text Analysis 🤖
+✔ Convert PDF Resumes to Text 📄
+✔ Build a Web Interface for Uploading Resumes 🌍
