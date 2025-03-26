@@ -1,0 +1,5 @@
+John Doe
+Software Engineer
+Skills: Java, SQL, AWS, Spring Boot, Docker
+Experience: 3 years at XYZ Tech
+Education: B.Tech in Computer Science
