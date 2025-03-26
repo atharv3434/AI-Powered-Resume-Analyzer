@@ -1,0 +1,4 @@
+Looking for a Java Developer with:
+- Java, Spring Boot, SQL
+- Experience with Kubernetes, Docker
+- Knowledge of AWS Cloud
